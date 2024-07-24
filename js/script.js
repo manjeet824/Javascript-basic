@@ -1,3 +1,3 @@
 //  Works On js
-console.log('hello world');
+console.log('New  world');
 alert('hello')
